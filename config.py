@@ -15,7 +15,7 @@ ROOT_DIR: Path = Path(__file__).resolve().parent
 DATA_DIR: Path = ROOT_DIR / "data"
 
 # OpenAI chat model used for study plans.
-OPENAI_MODEL: str = "gemini-2.0-flash"  # free Google Gemini model
+OPENAI_MODEL: str = "gemini-3.8-flash"  # free Google Gemini model
 
 # Free Gemini API (OpenAI-compatible endpoint).
 API_BASE_URL: str = "https://generativelanguage.googleapis.com/v1beta/openai/"
