@@ -51,6 +51,6 @@ Supporting libraries: pypdf (PDF text extraction) and SQLite (local storage). Th
 
 ## Author
 
-Created by **Araib**, Civil Engineer.
+Created by **Araib**
 
 Verify critical facts against your course materials when it matters.
